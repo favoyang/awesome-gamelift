@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  push: {branches: ["*", "*/*"]}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.x'
+    - run: gem install awesome_bot
+    - run: awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl
