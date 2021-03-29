@@ -13,6 +13,7 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 - Twitter accounts: [@AmazonGameLift](https://twitter.com/AmazonGameLift), [@AWSGameTech](https://twitter.com/AWSGameTech)
 - YouTube channels: [AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw), [AWS Game Tech](https://www.youtube.com/channel/UCQH55cT_em5E8XU2J8erMKA)
 - [GitHub topic](https://github.com/topics/gamelift)
+- [Forums](https://forums.awsgametech.com/c/amazon-gamelift/7)
 - [Other resources](#resources)
 
 ## Solutions
