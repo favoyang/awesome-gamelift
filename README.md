@@ -12,11 +12,68 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 - [Documentation](https://docs.aws.amazon.com/gamelift/index.html)
 - Twitter accounts: [@AmazonGameLift](https://twitter.com/AmazonGameLift), [@AWSGameTech](https://twitter.com/AWSGameTech)
 - YouTube channels: [AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw), [AWS Game Tech](https://www.youtube.com/channel/UCQH55cT_em5E8XU2J8erMKA)
-- [GitHub topic](https://github.com/topics/gamelift)
+- [Blog](https://aws.amazon.com/blogs/gametech/category/game-development/amazon-gamelift/)
 - [Forums](https://forums.awsgametech.com/c/amazon-gamelift/7)
+- [GitHub topic](https://github.com/topics/gamelift)
 - [Other resources](#resources)
 
 ## Solutions
 
+### NodeJS (work with Realtime Servers)
+
+- [node-gameloop](https://github.com/tangmi/node-gameloop), a game loop for NodeJS applications, uses a combination of setTimeout and setImmediate to achieve accurate update ticks with minimal CPU usage.
+- [Unofficial Typescript definitions for GameLift realtime server API](https://github.com/jcular/unofficial-gamelift-realtime-server-api).
+
+### Integrations
+
+- [Defold extension-gamelift](https://github.com/defold/extension-gamelift), GameLift Amazon GameLift extension for the Defold game engine. Run Defold on the server with GameLift SDK support.
+- [GomeLift](https://github.com/neguse/gomelift), Unofficial GameLift Server SDK in Go.
+
+### Devops
+
+- [fleetiq-adapter-for-agones](https://github.com/awslabs/fleetiq-adapter-for-agones), allows you to run containerized game servers on Spot instances while decreasing the likelihood of Spot interruptions by using Agones and Gamelift FleetIQ.
+- [amazon-gamelift-remote-plus](https://github.com/aws-samples/amazon-gamelift-remote-plus), tool creates remote connections to access fleet instances using Secure Shell (SSH) for fleets running Linux, and Remote Desktop Protocol (RDP) for fleets running Windows.
 
 ## Resources
+
+### Articles
+
+#### Official articles
+
+- [Creating a Battle Royale Game Using Unity and Amazon GameLift](https://aws.amazon.com/blogs/gametech/creating-a-battle-royale-game-using-unity-and-amazon-gamelift/) ([Source Repo](https://github.com/aws-samples/amazon-gamelift-ultrafrogroyale-large-match-sample))
+
+#### Other articles
+
+### Samples
+
+#### Official samples
+
+- [amazon-gamelift-largematch-sample-ultrafrogroyale](https://github.com/aws-samples/amazon-gamelift-ultrafrogroyale-large-match-sample), a small game built with Unity to demonstrate how to use the new Amazon GameLift large match features.
+- [amazon-gamelift-unity](https://github.com/aws-samples/amazon-gamelift-unity), a sample code shows how to set up a basic GameLift server and client for games using the Unity Game Engine.
+- [aws-gamelift-sample (with FlexMatch)](https://github.com/aws-samples/aws-gamelift-sample), a sample Gomoku board game project using Amazon GameLift and AWS serverless services including DynamoDB, Lambda, SQS, S3, and so on.
+- [Game Server Hosting on Amazon Elastic Container Service with Amazon GameLift FleetIQ](https://github.com/aws-samples/amazon-gamelift-fleetiq-with-amazon-ecs), an example solution on how to scale a fleet of game servers on Elastic Container Service and match players to game sessions using a Serverless backend. Game Sessions are managed by Amazon GameLift FleetIQ. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash scripts.
+- [GameLift Example for Unity with Serverless Backend](https://github.com/aws-samples/aws-gamelift-and-serverless-backend-sample), a simple 3D game GameLift example with a Serverless backend service designed especially for getting started with MacOS and mobile development and leveraging deployment automation and Infrastructure as Code.
+- [megafrogRace-gameLift-realtime-server-sample](https://github.com/aws-samples/megafrograce-gamelift-realtime-servers-sample), a sample 2D racing game using Amazon GameLift (Realtime Servers) and AWS services including AWS Lambda and Amazon Cognito.
+- [Persistent Game Server with Amazon GameLift](https://github.com/aws-samples/amazon-gamelift-persistent-sample), a sample includes how to implement persistent game server based on Amazon GameLift.
+
+#### Other samples
+
+- [Unity GameLift/Mirror Sample](https://github.com/joaoborks/unity-gamelift-mirror-sample), features a working multiplayer sample using AWS GameLift and Mirror on Unity. Supports IL2CPP and mobile devices.
+
+### Videos
+
+#### Official videos
+
+- [Dedicated Servers with Amazon GameLift AWS Game Tech Series](https://www.youtube.com/playlist?list=PLuGWzrvNze7KQO5mREeae2eIR8rJws0At)
+- [Getting Started with Amazon GameLift FleetIQ - AWS Online Tech Talks](https://www.youtube.com/watch?v=p07ueG4A3qA)
+
+#### Other videos
+
+- [Better together: running containerized game servers with Agones and GameLift FleetIQ](https://www.youtube.com/watch?v=RvBjgKME21U)
+- [Unity + Amazon GameLift RealTime Servers Series](https://www.youtube.com/playlist?list=PLOtt3_R1rR9VMkqZvMF-39TeKrbpKZocW) by [Battery Acid](https://www.youtube.com/channel/UCtTEc7bBzP7Tq5U2Jzf5lPw)
+- [Unity + GameLift Custom Server Series](https://www.youtube.com/playlist?list=PLOtt3_R1rR9XlvhJZXtiHQuIkisdXIxlc) by [Battery Acid](https://www.youtube.com/channel/UCtTEc7bBzP7Tq5U2Jzf5lPw)
+
+### Made with GameLift
+
+- [For Honor](https://aws.amazon.com/blogs/gametech/for-honor-friday-the-13th-the-game-move-from-p2p-to-the-cloud-to-improve-player-experience/) by Ubisoft
+- [Ninjala](https://aws.amazon.com/blogs/gametech/amazon-gamelift-announces-general-availability-of-six-new-regions/) by GungHo
