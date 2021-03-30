@@ -9,6 +9,7 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 ## General resources
 
 - [Official site](https://aws.amazon.com/gamelift/)
+- [SDKs](https://aws.amazon.com/gamelift/getting-started/#Developer_Resources_and_Documentation)
 - [Documentation](https://docs.aws.amazon.com/gamelift/index.html)
 - Twitter accounts: [@AmazonGameLift](https://twitter.com/AmazonGameLift) - [@AWSGameTech](https://twitter.com/AWSGameTech)
 - YouTube channels: [AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw) - [AWS Game Tech](https://www.youtube.com/channel/UCQH55cT_em5E8XU2J8erMKA)
@@ -20,7 +21,7 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 
 ## Solutions
 
-### NodeJS (work with Realtime Servers)
+### GameLift Realtime Servers (NodeJS) 
 
 - [node-gameloop](https://github.com/tangmi/node-gameloop) - A game loop for NodeJS applications, uses a combination of setTimeout and setImmediate to achieve accurate update ticks with minimal CPU usage.
 - [Unofficial Typescript definitions for GameLift realtime server API](https://github.com/jcular/unofficial-gamelift-realtime-server-api) - Make Realtime interface work with Typescript.
