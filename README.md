@@ -30,6 +30,7 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 
 - [Defold extension-gamelift](https://github.com/defold/extension-gamelift) - GameLift Amazon GameLift extension for the Defold game engine. Run Defold on the server with GameLift SDK support.
 - [GomeLift](https://github.com/neguse/gomelift) - Unofficial GameLift Server SDK in Go.
+- [GameLift Server SDK RS](https://github.com/ZaMaZaN4iK/aws-gamelift-server-sdk-rs) - Unofficial GameLift Server SDK in Rust
 
 ### Devops
 
