@@ -51,14 +51,16 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 ### Samples
 
 #### Official samples
-
-- [amazon-gamelift-largematch-sample-ultrafrogroyale](https://github.com/aws-samples/amazon-gamelift-ultrafrogroyale-large-match-sample) - A small game built with Unity to demonstrate how to use the new Amazon GameLift large match features.
+- [GameLift Example for Unity with Serverless Backend](https://github.com/aws-samples/aws-gamelift-and-serverless-backend-sample) - A GameLift example with a Serverless backend service that helps you get started with GameLift development and leverages deployment automation and Infrastructure as Code. Works on MacOS, Windows as well as mobile platforms.
 - [amazon-gamelift-unity](https://github.com/aws-samples/amazon-gamelift-unity) - A sample code shows how to set up a basic GameLift server and client for games using the Unity Game Engine.
 - [aws-gamelift-sample (with FlexMatch)](https://github.com/aws-samples/aws-gamelift-sample) - A sample Gomoku board game project using Amazon GameLift and AWS serverless services including DynamoDB, Lambda, SQS, S3, and so on.
 - [Game Server Hosting on Amazon Elastic Container Service with Amazon GameLift FleetIQ](https://github.com/aws-samples/amazon-gamelift-fleetiq-with-amazon-ecs) - A sample solution on how to scale a fleet of game servers on Elastic Container Service and match players to game sessions using a Serverless backend. Game Sessions are managed by Amazon GameLift FleetIQ. All resources are deployed with Infrastructure as Code using CloudFormation, Serverless Application Model, Docker and bash scripts.
 - [GameLift Example for Unity with Serverless Backend](https://github.com/aws-samples/aws-gamelift-and-serverless-backend-sample) - A simple 3D game GameLift example with a Serverless backend service designed especially for getting started with MacOS and mobile development and leveraging deployment automation and Infrastructure as Code.
 - [megafrogRace-gameLift-realtime-server-sample](https://github.com/aws-samples/megafrograce-gamelift-realtime-servers-sample) - A sample 2D racing game using Amazon GameLift (Realtime Servers) and AWS services including AWS Lambda and Amazon Cognito.
 - [Persistent Game Server with Amazon GameLift](https://github.com/aws-samples/amazon-gamelift-persistent-sample) - A sample includes how to implement persistent game server based on Amazon GameLift.
+
+Archived
+- [amazon-gamelift-largematch-sample-ultrafrogroyale](https://github.com/aws-samples/amazon-gamelift-ultrafrogroyale-large-match-sample) - A small game built with Unity to demonstrate how to use the new Amazon GameLift large match features. *(using archived mobile SDK for unity)*
 
 #### Other samples
 
