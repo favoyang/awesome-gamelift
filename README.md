@@ -9,7 +9,7 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 ## General resources
 
 - [Official site](https://aws.amazon.com/gamelift/)
-- [SDKs](https://aws.amazon.com/gamelift/getting-started/#Developer_Resources_and_Documentation)
+- [SDKs](https://aws.amazon.com/gamelift/getting-started/#Developer_Resources_and_Documentation) ([release notes](https://docs.aws.amazon.com/gamelift/latest/developerguide/release-notes.html))
 - [Documentation](https://docs.aws.amazon.com/gamelift/index.html)
 - Twitter accounts: [@AmazonGameLift](https://twitter.com/AmazonGameLift) - [@AWSGameTech](https://twitter.com/AWSGameTech)
 - YouTube channels: [AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw) - [AWS Game Tech](https://www.youtube.com/channel/UCQH55cT_em5E8XU2J8erMKA)
