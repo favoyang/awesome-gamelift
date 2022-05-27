@@ -16,7 +16,7 @@ You might also like [Awesome AWS](https://github.com/donnemartin/awesome-aws).
 - Twitter accounts: [@AmazonGameLift](https://twitter.com/AmazonGameLift) - [@AWSGameTech](https://twitter.com/AWSGameTech)
 - YouTube channels: [AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw) - [AWS Game Tech](https://www.youtube.com/channel/UCQH55cT_em5E8XU2J8erMKA)
 - [Blog](https://aws.amazon.com/blogs/gametech/category/game-development/amazon-gamelift/)
-- [Forums](https://forums.awsgametech.com/c/amazon-gamelift/7) and [re:Post (Questions tagged with Amazon GameLift)](https://repost.aws/tags/TAF8-XUqojTsadH5jSz3IfGQ/amazon-game-lift)
+- [re:Post Q&A](https://repost.aws/tags/TAF8-XUqojTsadH5jSz3IfGQ/amazon-game-lift) ([~~old forum~~](https://forums.awsgametech.com/c/amazon-gamelift/7))
 - [GitHub topic](https://github.com/topics/gamelift)
 - [Stack Overflow tag [amazon-gamelift]](https://stackoverflow.com/questions/tagged/amazon-gamelift)
 - [Other resources](#resources)
